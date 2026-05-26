@@ -1,0 +1,6 @@
+{
+  "name": "LayarMelayang",
+  "description": "Ambil cuplikan layar (screenshot) secara instan melalui tombol melayang (overlay) di atas aplikasi lain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
